@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="135" viewBox="0 0 250 135">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 200px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #036a1b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: "Times New Roman";
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 716.667px;
+      }
+
+      .cls-4 {
+        font-size: 300px;
+      }
+    </style>
+  </defs>
+  <text id="entral" class="cls-1" transform="translate(121.124 37.817) scale(0.242 0.243)">entral</text>
+  <text id="uisine" class="cls-1" transform="translate(121.124 123.527) scale(0.242 0.243)">uisine</text>
+  <text id="sian" class="cls-2" transform="translate(122.82 80.551) scale(0.242 0.243)">sian</text>
+  <text id="C" class="cls-3" transform="translate(0 123.527) scale(0.242 0.243)">C</text>
+  <text id="A" class="cls-4" transform="translate(67.587 81.522) scale(0.242 0.243)">A</text>
+</svg>
